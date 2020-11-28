@@ -1,0 +1,10 @@
+number of employee: 7
+Here the goodies that are selected for distribution are:
+Fitbit Plus:999
+IPods:2799
+MI Band:7980
+Cult Pass:9999
+Macbook Pro:11101
+Digital Camera:22349
+Alexa:229900
+And the difference between the chosen goodie with highest price and the lowest price is 228901
